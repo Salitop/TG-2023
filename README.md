@@ -16,6 +16,7 @@ Meu nome é Luiz Miguel, tenho 21 anos e moro em São José dos Campos. Eu entre
 
 ### Em 2020-1
 O meu primeiro API foi um aplicativo, o seu objetivo seria um sistema que informaria valor do consumo elétrico dos eletrodomésticos cadastrados, para auxiliar na economia dos usuários.
+
 ![image](https://github.com/Salitop/TG-2023/assets/67153101/5b8e11d5-19ed-4832-b710-c3a55571acd5)
 
 
