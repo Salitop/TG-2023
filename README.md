@@ -1,16 +1,11 @@
 # Luiz Miguel Macedo Andre
 
 ## Introdução
-
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Meu nome é Luiz Miguel, tenho 21 anos e moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020. Em Setembro eu entrei na empresa SoftWillians na área de suporte de sistemas para a Cebrace, como Analista de Sistemas Full-Stack na qual sigo atuando até hoje.
 
 ## Contatos
 * [GIT](https://github.com/Salitop)
 * [LinkedIn](https://www.linkedin.com/in/luiz-miguel-475347193/)
-
-## Meus Principais Conhecimentos
-Meu nome é Luiz Miguel, tenho 21 anos e moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020. Em Setembro eu entrei na empresa SoftWillians na área de suporte de sistemas para a Cebrace, como Analista de Sistemas Full-Stack na qual sigo atuando até hoje.
-
 
 ## Meus Projetos
 
