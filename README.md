@@ -7,6 +7,9 @@ Meu nome é Luiz Miguel, tenho 21 anos e moro em São José dos Campos. Eu entre
 * [GIT](https://github.com/Salitop)
 * [LinkedIn](https://www.linkedin.com/in/luiz-miguel-475347193/)
 
+* ## Meus Principais Conhecimentos
+Tenho conhecimento nas liguagens Back-end C#, ASPX.NET e Python e Front-end as linguagens Angular e HTML.
+
 ## Meus Projetos
 
 ### Em 2020-1
