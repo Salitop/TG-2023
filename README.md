@@ -16,6 +16,8 @@ Meu nome é Luiz Miguel, tenho 21 anos e moro em São José dos Campos. Eu entre
 
 ### Em 2020-1
 O meu primeiro API foi um aplicativo, o seu objetivo seria um sistema que informaria valor do consumo elétrico dos eletrodomésticos cadastrados, para auxiliar na economia dos usuários.
+![image](https://github.com/Salitop/TG-2023/assets/67153101/5b8e11d5-19ed-4832-b710-c3a55571acd5)
+
 
 #### Tecnologias Utilizadas
 Programação em Bloco - Foi a principal ferramenta de programação utilizada nesse projeto, uma forma onde é possível utilizar blocos para representar a lógica do programa
@@ -23,6 +25,8 @@ Programação em Bloco - Foi a principal ferramenta de programação utilizada n
 Kodular - Ferramenta utilizada para a programação do aplicativo, responsável por disponibilizar componentes pré-prontos.
 
 AirTable - Ferramenta utilizada para o banco de dados do aplicativo, responsável por armazenar os dados registrados na nuvem.
+
+Arduino - Ferramenta responsável por simular um componente eletrônico e seu consumo de energia a partir de um potenciômetro e led.
 
 #### Contribuições Pessoais
 Eu fui responsável por realizar as artes e telas do aplicativo, essa foi minha primeira vez realizando uma UI para mobile, algo que não estava muito familiarizado.
