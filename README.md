@@ -13,7 +13,7 @@ Tenho conhecimento nas liguagens Back-end C#, ASPX.NET e Python e Front-end as l
 ## Meus Projetos
 
 ### Em 2020-1
-O meu primeiro API foi um aplicativo, o seu objetivo seria um sistema que informaria valor do consumo elétrico dos eletrodomésticos cadastrados, para auxiliar na economia dos usuários.
+O meu primeiro API foi um aplicativo, desenvolvido para o Professor Jean Carlos Lourenço Costa com a proposta de criar um aplicativo mobile com integração do arduíno. Pensando neste desafio desenvolvemos um sistema que informaria valor de consumo elétrico dos eletrodomésticos cadastrados nele, assim auxiliando os usuários a ecnomizar energia.
 
 ![image](https://github.com/Salitop/TG-2023/assets/67153101/5b8e11d5-19ed-4832-b710-c3a55571acd5)
 
@@ -28,13 +28,15 @@ AirTable - Ferramenta utilizada para o banco de dados do aplicativo, responsáve
 Arduino - Ferramenta responsável por simular um componente eletrônico e seu consumo de energia a partir de um potenciômetro e led.
 
 #### Contribuições Pessoais
-Eu fui responsável por realizar as artes e telas do aplicativo, essa foi minha primeira vez realizando uma UI para mobile, algo que não estava muito familiarizado.
+Eu fui responsável por realizar as artes e telas do aplicativo, no desenvolvimento utilizei o próprio Kodular para estruturar a página com os backgrounds, botões, caixas de texto e PopUps e para a criação das imagens utilizei os editores de imagem Photoshop e Illustrator, essa foi minha primeira vez realizando uma UI para mobile, algo que não estava muito familiarizado.
 
 #### Hard Skills
-Programação em Bloco - Essa foi a minha primeira experiência com Programação em Bloco e desenvolvimento Mobile então foi possível aprender muito sobre essa forma de programação e UI.
+Programação em Bloco - Essa foi a minha primeira experiência com Programação em Bloco e desenvolvimento Mobile então foi possível aprender muito sobre essa forma de programação e UI. - Sei fazer com ajuda
+Design de Telas Mobile - Como essa foi minha primeira vez realizando um design de UI para mobile, precisei pesquisar e buscar orientação dos professores para ter uma harmonização entre as telas desenvolvidas. - Sei fazer com ajuda
+Edição de Imagem - Durante o ensino médio havia desenvolvido um hobbie na criação de ilustrações digitais e edições de imagem, então estava familiarizado com as ferramentas. - Sei com autonomia
 
 #### Soft Skills
-Ao desenvolver este Projeto projeto com um grupo de pessoas novas consegui desenvolver bastante as minhas skills de comunicação, coordenação e trabalho em equipe.
+Comunicação com a equipe - Ao desenvolver a UI deste projeto trabalhando na metodologia agil, me econtrei sempre buscando me comunicar com a equipe para que a minha task esteja a par das espectativas do cliente, sempre ouvindo opniões e discutindo melhorias na interface. Principalmentes nas reuniões realizadas em classe e posteriormente no Teams.
 
 ### Em 2020-2
 -
