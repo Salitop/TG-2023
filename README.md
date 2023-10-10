@@ -15,7 +15,7 @@ Tenho conhecimento nas liguagens Back-end C#, ASPX.NET e Python e Front-end as l
 ### Em 2020-1
 O meu primeiro API foi um aplicativo, desenvolvido para o Professor Jean Carlos Lourenço Costa com a proposta de criar um aplicativo mobile com integração do arduíno. Pensando neste desafio desenvolvemos um sistema que informaria valor de consumo elétrico dos eletrodomésticos cadastrados nele, assim auxiliando os usuários a ecnomizar energia.
 
-![image](https://github.com/Salitop/TG-2023/assets/67153101/5b8e11d5-19ed-4832-b710-c3a55571acd5)
+![image](https://github.com/Salitop/TG-2023/imagens/safeEnergy.png)
 
 
 #### Tecnologias Utilizadas
@@ -39,13 +39,83 @@ Edição de Imagem - Durante o ensino médio havia desenvolvido um hobbie na cri
 Comunicação com a equipe - Ao desenvolver a UI deste projeto trabalhando na metodologia agil, me econtrei sempre buscando me comunicar com a equipe para que a minha task esteja a par das espectativas do cliente, sempre ouvindo opniões e discutindo melhorias na interface. Principalmentes nas reuniões realizadas em classe e posteriormente no Teams.
 
 ### Em 2020-2
--
+Meu segundo API desenvolvido foi uma aplicação web desenvolvida para a empresa Iacit, que precisavam de um sistema para gestão e controle de transportes rodoviário. Para solução da empresa, desenvolvemos um projeto capaz de auxiliar no controle das jornadas de trabalho e gestão, informando qual pacote está sendo levado por qual motorista e veículo, onde está, seu destino, o horário da entrega e suas horas de descanso.
+
+![image](https://github.com/Salitop/TG-2023/imagens/truckin.gif)
+
+
+#### Tecnologias Utilizadas
+Spring Tool Suite 4 - Utilizado para realizar a lógica da aplicação e manipulação das páginas HTML.
+
+Postgres - Um sistema de gerenciamento de banco de dados, utilizado para armazenar e e consultar dados para a aplicação.
+
+JPA - Uma solução ORM (Mapeamento objeto-relacional) que permite mapear e tabelas e colunas de um banco de dados.
+
+HTML/CSS - Linguagens de estilização e formatação das páginas web.
+
+#### Contribuições Pessoais
+Neste projeto contribuí com o desenvolvimento e estilização das páginas web e integração do front-end com o back-end, tais como as informações de cadastros e listagens.
+
+#### Hard Skills
+Spring Tool Suite 4: Minha primeira experiência com o framework foi durante o desenvolvimento do projeto; contudo, consegui adquirir conhecimento e experiência. - Sei fazer com ajuda.
+
+Postgres: Como o Postgres é muito similar ao MySQL em banco de dados, logo adquiri mais experiência. - Sei fazer sozinho.
+
+JPA: Foi uma nova ORM utilizada na organização e mapeamento do projeto. Aprendi que é essencial para manter o projeto organizado e relacionado. - Sei fazer com ajuda
+
+HTML/CSS: Já tinha experiência, porém aprendi novas ferramentas de integração com o backend, como o Thymeleaf. Logo, aprendi bastante. - Sei fazer sozinho.
+
+#### Soft Skills
+Organização de tarefas entre a equipe - Durante o desenvolvimento do projeto, houve diversos desentendimentos entre o desenvolvimento do front-end e o back-end, que ficaram fora de sincronia. Com o passar do tempo, adotamos uma melhor organização para que as tarefas pudessem ser desenvolvidas de forma independente e mais organizada.
 
 ### Em 2021-1
--
+Meu terceiro projeto de API foi o desenvolvimento de uma aplicação web criada para a empresa NessHealth. Foi apresentado o desafio de desenvolver uma plataforma educacional que incluísse aulas online, tarefas e provas para os alunos, organizados por turmas, com seu respectivo professor como responsável. Além disso, implementamos um sistema de chat entre professor e aluno para facilitar a comunicação.
+
+![image](https://github.com/Salitop/TG-2023/imagens/nLearning.gif)
+
+
+#### Tecnologias Utilizadas
+Spring Tool Suite 4 - Utilizado para realizar a lógica da aplicação e manipulação das páginas HTML.
+
+JPA - Uma solução ORM (Mapeamento objeto-relacional) que permite mapear e tabelas e colunas de um banco de dados.
+
+HTML/CSS - Linguagens de estilização e formatação das páginas web.
+
+MySQL - Um sistema de gerenciamento de banco de dados, utilizado para armazenar e e consultar dados para a aplicação.
+
+#### Contribuições Pessoais
+Neste projeto, contribuí com o desenvolvimento e estilização da maioria das páginas web, bem como parte da integração entre o front-end e o back-end. Além disso, desenvolvi algumas atividades no back-end, como o cadastro de gestor, a conversão e exibição de PDF e a lógica de relação entre professores e turmas, bem como entre turmas e alunos.
+
+#### Hard Skills
+Spring Tool Suite 4: Havia desenvolvido bem pouco no projeto anterior, porém nesse tive mais participação no back-end e consegui aprender mais ainda com a prática e exemplo dos colegas com mais experência . - Sei fazer sozinho.
+
+JPA: Como no projeto anterior utilizamos essa ORM, neste projeto apenas desenolvi mais minha habilidade com essa tecnologia. - Sei fazer sozinho
+
+HTML/CSS: Apesar de ja ter certa experiencias, encontrei um desafio durante a exibição de videos e PDF, portanto aprendi ainda mais. - Sei fazer sozinho
+
+MySQL: Anteriormente, já havia feito diversos projetos com MySQL, sendo assim, tive facilidade e aprendi ainda mais com o projeto. - Sei fazer sozinho
+
+#### Soft Skills
+Liderança - Neste projeto atuei como Scrum Master, que me proporcionou diversos desafios na organização, desenvolvimento e cobrança de tarefas.
+
+Comunicação com a equipe - Como Scrum Master acabei sempre tentando entender as dores da equipe para que possamos ter um desenvolvimento saúdavel das atividades.
 
 ### Em 2021-2
--
+Meu quarto projeto de API foi o desenvolvimento de uma aplicação web para a empresa Embraer. Nos foi proprocionado o desafio de criar uma aplicação web que seja capaz de gerenciar e exibir documentações de aeronaves para agilizar e facilitar as correções e disponibilizações das documentações.
+
+![image](https://github.com/Salitop/TG-2023/imagens/handbookplane.gif)
+
+#### Hard Skills
+Spring Tool Suite 4: Seguindo com meu terceiro projeto utilizando esse Framework familiarizando ainda mais. - Sei fazer sozinho
+
+JPA: Minha familiaridade com o uso do JPA se aprofundou ainda mais, permitindo-me projetar soluções ORM mais eficazes e eficientes. - Sei fazer sozinho
+
+HTML/CSS: Continuei encontrando alguns desafios tais como a pesquisa inteligente, consegui me aprofundar ainda mais. - Sei fazer com ajuda
+
+MySQL: Anteriormente, já havia feito diversos projetos com MySQL, sendo assim, tive facilidade e aprendi ainda mais com o projeto. - Sei fazer sozinho
+
+#### Soft Skills
+Comunicação o cliente - Como Project Owner aprendi muito sobre a importância do contato com o cliente para desenvolvimento das tarefas.
 
 ### Em 2022-1
 -
