@@ -15,7 +15,7 @@ Tenho conhecimento nas liguagens Back-end C#, ASPX.NET e Python e Front-end as l
 ### Em 2020-1
 O meu primeiro API foi um aplicativo, desenvolvido para o Professor Jean Carlos Lourenço Costa com a proposta de criar um aplicativo mobile com integração do arduíno. Pensando neste desafio desenvolvemos um sistema que informaria valor de consumo elétrico dos eletrodomésticos cadastrados nele, assim auxiliando os usuários a ecnomizar energia.
 
-![image](https://github.com/Salitop/TG-2023/imagens/safeEnergy.png)
+![image](https://github.com/Salitop/TG-2023/blob/main/imagens/safeEnergy.png)
 
 
 #### Tecnologias Utilizadas
@@ -41,7 +41,7 @@ Comunicação com a equipe - Ao desenvolver a UI deste projeto trabalhando na me
 ### Em 2020-2
 Meu segundo API desenvolvido foi uma aplicação web desenvolvida para a empresa Iacit, que precisavam de um sistema para gestão e controle de transportes rodoviário. Para solução da empresa, desenvolvemos um projeto capaz de auxiliar no controle das jornadas de trabalho e gestão, informando qual pacote está sendo levado por qual motorista e veículo, onde está, seu destino, o horário da entrega e suas horas de descanso.
 
-![image](https://github.com/Salitop/TG-2023/imagens/truckin.gif)
+![image](https://github.com/Salitop/TG-2023/blob/main/imagens/truckin.gif)
 
 
 #### Tecnologias Utilizadas
@@ -71,7 +71,7 @@ Organização de tarefas entre a equipe - Durante o desenvolvimento do projeto, 
 ### Em 2021-1
 Meu terceiro projeto de API foi o desenvolvimento de uma aplicação web criada para a empresa NessHealth. Foi apresentado o desafio de desenvolver uma plataforma educacional que incluísse aulas online, tarefas e provas para os alunos, organizados por turmas, com seu respectivo professor como responsável. Além disso, implementamos um sistema de chat entre professor e aluno para facilitar a comunicação.
 
-![image](https://github.com/Salitop/TG-2023/imagens/nLearning.gif)
+![image](https://github.com/Salitop/TG-2023/blob/main/imagens/nLearning.gif)
 
 
 #### Tecnologias Utilizadas
@@ -103,7 +103,7 @@ Comunicação com a equipe - Como Scrum Master acabei sempre tentando entender a
 ### Em 2021-2
 Meu quarto projeto de API foi o desenvolvimento de uma aplicação web para a empresa Embraer. Nos foi proprocionado o desafio de criar uma aplicação web que seja capaz de gerenciar e exibir documentações de aeronaves para agilizar e facilitar as correções e disponibilizações das documentações.
 
-![image](https://github.com/Salitop/TG-2023/imagens/handbookplane.gif)
+![image](https://github.com/Salitop/TG-2023/blob/main/imagens/handbookplane.gif)
 
 #### Hard Skills
 Spring Tool Suite 4: Seguindo com meu terceiro projeto utilizando esse Framework familiarizando ainda mais. - Sei fazer sozinho
