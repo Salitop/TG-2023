@@ -105,10 +105,22 @@ Meu quarto projeto de API foi o desenvolvimento de uma aplicação web para a em
 
 ![image](https://github.com/Salitop/TG-2023/blob/main/imagens/handbookplane.gif)
 
-#### Hard Skills
-Spring Tool Suite 4: Seguindo com meu terceiro projeto utilizando esse Framework familiarizando ainda mais. - Sei fazer sozinho
+#### Tecnologias Utilizadas
+Spring Tool Suite 4 - Utilizado para realizar a lógica da aplicação e manipulação das páginas HTML.
 
-JPA: Minha familiaridade com o uso do JPA se aprofundou ainda mais, permitindo-me projetar soluções ORM mais eficazes e eficientes. - Sei fazer sozinho
+JPA - Uma solução ORM (Mapeamento objeto-relacional) que permite mapear e tabelas e colunas de um banco de dados.
+
+HTML/CSS - Linguagens de estilização e formatação das páginas web.
+
+MySQL - Um sistema de gerenciamento de banco de dados, utilizado para armazenar e e consultar dados para a aplicação.
+
+#### Contribuições Pessoais
+Neste projeto, contribuí com o desenvolvimento e estilização da maioria das páginas web, de cadastros e exibições de dados tais como: lista de usuários, PDFs e consulta inteligente e por consequência participei da integração entre o front-end e o back-end. Além disso, desenvolvi algumas atividades no back-end como a consulta de dados no banco para exibição e cadastrar arquivo PDF no banco de dados em base 64 bits.
+
+#### Hard Skills
+Spring Tool Suite 4: Como este foi meu terceiro projeto utilizando esse Framework, estáva apto a realizar e testar as atividades de forma proativa. - Sei fazer sozinho
+
+JPA: Criei mais familiaridade com JPA para realização da integração com o banco de dados. - Sei fazer sozinho
 
 HTML/CSS: Continuei encontrando alguns desafios tais como a pesquisa inteligente, consegui me aprofundar ainda mais. - Sei fazer com ajuda
 
