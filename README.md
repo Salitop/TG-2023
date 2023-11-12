@@ -177,7 +177,7 @@ React-Native - Por já termos tido a experiencia de desenvolver um projeto nessa
 Figma - Para o wireframe utilizamos o Figma, ferramenta que auxilia no planejamento e desenvolvimento inicial da User Interface. 
 
 #### Contribuições Pessoais
-Neste projeto auxiliei bastante base de treino da IA, implementação de novas páginas do aplicativo para visualização e upload de imagens e auxílio no debug e build do projeto.
+Neste projeto auxiliei bastante na base de treino da IA mapeando e indicando oque é vagem e semente, implementação de novas páginas do aplicativo para upload de imagens e visualização da análise da IA quanto as vagens e sementes da soja utilizando o React-Native e auxílio no debug e build do projeto, por ter sido realizado por outra equipe um dos maiores dasafios foi conseguir rodar propriamente o projeto pois o versionamento das tecnologias não foram documentadas.
 
 #### Hard Skills
 Flask: Utilizei este Framework em projetos anteriores na faculdade, então estava familiarizado com o desenvolvimento. - Sei fazer sozinho
