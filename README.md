@@ -130,10 +130,39 @@ MySQL: Anteriormente, já havia feito diversos projetos com MySQL, sendo assim, 
 Comunicação o cliente - Como Project Owner aprendi muito sobre a importância do contato com o cliente para desenvolvimento das tarefas.
 
 ### Em 2022-1
--
+O desenvolvimento do meu quinto projeto de API foi com o cliente Embraer, um aplicativo desenvilvido chamado Brisk que deve suportar iPhone e Android é um gerenciador de manuais para veículos, sua principal função é editar os manuais e sempre notificar os usuários quando é atualizado, porém apenas para os usuários relacionados ao veículo. Também foi desenvolvida como requisito do cliente, uma interface Web com gráficos e estatísticas dos manuais atualizados e lidos pelo usuário. 
 
-### Em 2022-2
--
+![image](https://github.com/Salitop/TG-2023/blob/main/imagens/brisk.png)
+
+#### Tecnologias Utilizadas
+Node.js - Decidimos utilizar o Node para desenvolvimento do backend do sistema por ser uma linguagem muito versátil e utilizada no mercado.
+
+Typescript - Utilizamos o Typescript junto do Node para melhor estruturação e desenvolvimento do projeto.
+
+React-Native - Para desenvolvimento da User Interface optamos pelo React-Native, ferramenta que suporta tanto iOS quanto Android, um dos requisitos do cliente para o projeto.
+
+MongoDB - Neste projeto utilizamos um banco de dados noSQL devido aos requisitos do projeto, sendo mais adequado para a manutenção de documentos do que o SQL.
+
+Figma - Para o wireframe utilizamos o Figma, ferramenta que auxilia no planejamento e desenvolvimento inicial da User Interface. 
+
+#### Contribuições Pessoais
+Neste projeto atuei bastante na User Interface do aplicativo e da página Web, na criação de gráficos, listagem de veículos, notificação do usuário, pesquisa inteligente e aviso visual com uma "bolinha" verde quando um manual do veículo foi atualizado, mas não lido pelo usuário. Apesar dos conceitos já terem sido utilizados em projetos anteriores, aplicá-los no React-Native foi um grande desafio pois era uma linguagem completamente nova para mim.
+
+Hard Skills
+Node.js: Conheci a linguagem ao decorrer da minha carreira de analista, portanto consegui aplicar bastante do meu conhecimento neste projeto e aplicá-los com mais liberdade para maior aprendizado. - Sei fazer com ajuda
+
+Typescript: Também conheci esta linguagem na minha carreira de analista, porém neste projeto utilizamos bastante o Typescript junto do MongoDB, algo novo que fui aprendendo ao decorrer do projeto. - Sei fazer sozinho
+
+React-Native: Este projeto foi meu primeiro contato com o React, foi um grande desafio porém com auxílio de meus colegas integrantes do API, consegui aprender bastante e desenvolver minhas tasks. - Sei fazer sozinho
+
+MongoDB: Já havia utilizado o MongoDB em alguns trabalhos da faculdade, porém foi minha primeira aplicação dele em uma API, com isso aprimorei meu conhecimento do banco e integração com o sistema. - Sei fazer sozinho
+
+#### Soft Skills
+Comunicação com a equipe: Desenvolvi esse projeto com novos integrantes, conseguimos nos organizar muito bem e aplicando as reuniões semanais para acompanhar o desenvolvimento do projeto e entender as dores da equipe.
+
+Autonomia: Por conta da dificuldade que tive com a linguagem React-Native, me encontrei pesquisando e estudando bastante do assunto para desenvolvimento das tasks, me tornando mais independente para aprendizado e desenvolvimento.
+
+
 
 
 
