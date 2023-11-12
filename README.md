@@ -148,7 +148,7 @@ Figma - Para o wireframe utilizamos o Figma, ferramenta que auxilia no planejame
 #### Contribuições Pessoais
 Neste projeto atuei bastante na User Interface do aplicativo e da página Web, na criação de gráficos, listagem de veículos, notificação do usuário, pesquisa inteligente e aviso visual com uma "bolinha" verde quando um manual do veículo foi atualizado, mas não lido pelo usuário. Apesar dos conceitos já terem sido utilizados em projetos anteriores, aplicá-los no React-Native foi um grande desafio pois era uma linguagem completamente nova para mim.
 
-Hard Skills
+#### Hard Skills
 Node.js: Conheci a linguagem ao decorrer da minha carreira de analista, portanto consegui aplicar bastante do meu conhecimento neste projeto e aplicá-los com mais liberdade para maior aprendizado. - Sei fazer com ajuda
 
 Typescript: Também conheci esta linguagem na minha carreira de analista, porém neste projeto utilizamos bastante o Typescript junto do MongoDB, algo novo que fui aprendendo ao decorrer do projeto. - Sei fazer sozinho
@@ -161,6 +161,34 @@ MongoDB: Já havia utilizado o MongoDB em alguns trabalhos da faculdade, porém 
 Comunicação com a equipe: Desenvolvi esse projeto com novos integrantes, conseguimos nos organizar muito bem e aplicando as reuniões semanais para acompanhar o desenvolvimento do projeto e entender as dores da equipe.
 
 Autonomia: Por conta da dificuldade que tive com a linguagem React-Native, me encontrei pesquisando e estudando bastante do assunto para desenvolvimento das tasks, me tornando mais independente para aprendizado e desenvolvimento.
+
+### Em 2022-2
+O meu último projeto, feito para o cliente Visiona, foi o eSoja. O desafio foi um aplicativo capaz de identificar o número de sementes e vagens de fotos de plantas de soja, como implemento de um projeto anteriormente realizado por outro grupo de estudantes da Fatec.
+
+![image](https://github.com/Salitop/TG-2023/blob/main/imagens/esoja.png)
+
+#### Tecnologias Utilizadas
+Flask - Utilizamos o Framework Flask para auxiliar na integração da Inteligência Artificial que foi desenvolvida em Python.
+
+Detectron2 - Também utilizamos a biblioteca Detectron2 para melhorar a precisão e treinamento da Inteligência Artificial.
+
+React-Native - Por já termos tido a experiencia de desenvolver um projeto nessa linguagem, optamos em utilizá-la novamente aplicando os aprendizados da API anterior.
+
+Figma - Para o wireframe utilizamos o Figma, ferramenta que auxilia no planejamento e desenvolvimento inicial da User Interface. 
+
+#### Contribuições Pessoais
+Neste projeto auxiliei bastante base de treino da IA, implementação de novas páginas do aplicativo para visualização e upload de imagens e auxílio no debug e build do projeto.
+
+#### Hard Skills
+Flask: Utilizei este Framework em projetos anteriores na faculdade, então estava familiarizado com o desenvolvimento. - Sei fazer sozinho
+
+Detectron2: Foi meu primeiro contato com está biblioteca, porém sua implementação foi simples e prática. - Sei fazer com ajuda
+
+React-Native: Como utilizei anteriormente, consegui aplicar ainda mais do meu conhecimento aprendido neste projeto - Sei fazer com ajuda
+
+#### Soft Skills
+Comunicação com o Cliente: Utilizamos bastante do conhecimento e experiencia do cliente para aprender e desenvolver melhor nossa inteligência artificial.
+
 
 
 
